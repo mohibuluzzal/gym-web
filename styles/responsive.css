@@ -1,0 +1,9 @@
+/* for mobile responsive nav bar */
+@media screen and (max-width:576px) {
+    .hamburger{
+        display: block;
+    }
+    .nav-btn-container{
+        display: none;
+    }
+}
