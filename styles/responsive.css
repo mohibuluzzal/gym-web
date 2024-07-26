@@ -1,9 +1,53 @@
 /* for mobile responsive nav bar */
 @media screen and (max-width:576px) {
     .hamburger{
-        display: block;
+        display: flex;
+        align-items: center;
     }
     .nav-btn-container{
         display: none;
     }
+    .get-body-container{
+        flex-direction: column;
+        
+    }
+    .get-body{
+        width: 100%;
+    }
+    h3{
+        font-weight: 900;
+        font-size: 4rem;
+    }
+    .paragraph{
+        color: #FFFFFF80;
+        padding-top: 20px;
+        font-weight: 300;
+        font-size: 1.6rem;
+        padding-right: 90px;
+    }
+    .img-first{
+        justify-content: center;
+        align-items:center;
+        padding-top: 650px;
+        margin: 0 auto;
+       width: 100%;
+    }
+    .gym-video-badge{
+        padding: 10px 20px;
+        margin-inline-start: 300px;
+        margin-block-start: -850px;
+        width: 180px;
+    }
+    #gym-video-badge-text{
+        font-weight: 800;
+        font-size: 30px;
+    }
+    .btn-para{
+        font-size: 15px;
+    }
+    .lower-btn-second-sec{
+       margin-block-start: 70px;
+       width: 180px;
+       margin-left: 150px;
+      }
 }
