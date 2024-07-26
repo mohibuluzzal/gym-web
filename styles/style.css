@@ -181,8 +181,28 @@ h3{
   #gym-video-badge-text-350{
     font-weight: 900;
     font-size: 30px;
-    color: white;
-   
+    color: white;  
   }
 
-  /* Get body section end */
+        /* Get body section end
+         =========================== */
+
+ /* <!-- Third section (Change Your Habit) start
+======================================= --> */
+
+
+.change-habit-sub-main{
+    max-width: 1100px;
+    height: auto;
+    margin: 0 auto;
+
+}
+
+  .change-habit-first{
+    text-align: center;
+  }
+
+  .image-section{
+    display: grid;
+    
+  }
