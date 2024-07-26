@@ -50,4 +50,26 @@
        width: 180px;
        margin-left: 151px;
       }
+      .change-habit-first{
+        margin: 0 auto;
+        text-align: center;
+        padding: 0px 20px 40px 20px;
+      }
+      .image-section{
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+        gap: 50px;
+        padding-left: 80px;
+        padding-right: 80px;
+      }
+      .change-habit-first p {
+        margin: 20px;
+      }
+      .second-paragraph{
+        font-size: 1.2rem;
+      }
+      .image-section h4{
+        font-size: 1.3rem;
+        margin-bottom: 5px;
+      }
 }
