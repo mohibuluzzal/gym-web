@@ -242,8 +242,12 @@ h3{
     color: white;
   }
 
-  /* <!-- Run an Extra Mile Section start
-  =============================== --> */
+          /* <!-- Third section (Change Your Habit) end
+                ======================================= --> */
+
+         /* <!-- Run an Extra Mile Section start
+          =============================== --> */
+
   .run-xtra-mile-sec-main{
     background-color: black;
     padding-top: 80px;
@@ -256,8 +260,7 @@ h3{
     background-color: rgb(34, 34, 34);
     display: flex;
     border-radius: 20px;
-    
-    
+      
 }
   .more-button{
     margin-top: 30px;
@@ -290,3 +293,9 @@ h3{
   #run-section-child p{
     margin-top: 20px;
   }
+
+        /* <!-- Run an Extra Mile Section end
+         =============================== --> */
+
+
+         
