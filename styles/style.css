@@ -94,6 +94,18 @@ h3{
     width: 50%;
    
 }
+/* .btn-join{
+    background-color: #E6533C;
+    margin-top: 30px;
+    height: 50px;
+    width: 224px;
+    font-weight:500;
+    color:white;
+    font-size: 16px;
+    border-radius: 50px;
+    border: none;
+} */
+
 .get-body button{
     margin-top: 30px;
     height: 50px;
@@ -114,7 +126,7 @@ h3{
 .btn-para{
     color: #FFFFFF80;
 }
-#btn-join{
+.btn-join{
     background-color: #E6533C;
 }
 #btn-dwn{
@@ -228,4 +240,53 @@ h3{
   .image-section h4{
     margin-bottom: 5px;
     color: white;
+  }
+
+  /* <!-- Run an Extra Mile Section start
+  =============================== --> */
+  .run-xtra-mile-sec-main{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    
+  }
+.run-xtra-mile-sec-sub-main{
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: rgb(34, 34, 34);
+    display: flex;
+    border-radius: 20px;
+    
+    
+}
+  .more-button{
+    margin-top: 30px;
+    height: 50px;
+    width: 224px;
+    font-weight:500;
+    color:white;
+    font-size: 16px;
+    border-radius: 50px;
+    border: none;
+  }
+  .run-xtra-mile-sec-sub-main img{
+    width: 100%;
+    border-radius: 20px;
+    
+  }
+
+  #run-section-child{
+    width: 60%;
+    padding: 40px 50px;
+    
+  }
+  #run-section-child-2{
+    width: 40%;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+  }
+ 
+  #run-section-child p{
+    margin-top: 20px;
   }
