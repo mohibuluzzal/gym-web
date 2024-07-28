@@ -322,8 +322,79 @@ h3{
 
  .trainer-card h5{
   color: white;
- }
-          
+ }       
+ .meet-team{
+  padding-bottom: 80px;
+ } 
         /* <!-- Meet our team section end
          ======================================= --> */
 
+/* Footer section start */
+.foot{
+  background: #1a1a1a;
+  
+}
+.footer{
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+
+}
+.footer div{
+  width: 90%;
+}
+.footer h1{
+  color: white;
+  font-style: italic;
+  padding-bottom: 20px;
+  color: rgb(230, 83, 60);
+  font-weight: 800;
+  font-size: 3rem;
+  
+}
+#foot-p{
+  text-align: left;
+  padding-left: 0px;
+}
+.footer h4{
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  padding-top: 20px;
+}
+.footer ul li{
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 400;
+  font-size: 18px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  list-style-type: none;
+}
+.get-start{
+  
+  padding-left: 90px;
+}
+footer{
+  padding-top: 60px;
+  background-color: black;
+}
+footer p{
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+}
+hr{
+  width: 1100px;
+  margin: 0 auto;
+  border: none;
+  height: 2px;
+  background-color: #333;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+/* Footer section end */
