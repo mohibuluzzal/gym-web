@@ -98,4 +98,16 @@
         padding-right: 40px;
         
       }
+      .row-1{
+        grid-template-columns: repeat(1, 1fr);
+      }
+      .two-section-same{
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .trainer-profile-container{
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+     
 }
