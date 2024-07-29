@@ -266,8 +266,7 @@ h3{
   }
   .run-xtra-mile-sec-sub-main img{
     width: 100%;
-    border-radius: 20px;
-    
+    border-radius: 20px; 
   }
 
   #run-section-child{
@@ -301,9 +300,7 @@ h3{
         }
         .bmi-main-sec h3{
           padding-bottom: 20px;
-        }
-
-         
+        }   
           .bmi-calc-and-form-main{
             background-color: rgb(34, 34, 34);
             color: white;
@@ -371,8 +368,54 @@ select{
   width: 91%;
 }
 
- /* BMI Section end
+          /* BMI Section end
           ==================== */
+
+
+        /* unique section start
+        ======================== */
+.unique-sec-submain{
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-top: 60px;
+}
+.uni-images-section{
+  padding-right: 20px;
+}
+.two-image-together{
+  display: flex;
+  gap: 40px;
+}
+.image-2{
+  padding-top: 80px;
+}
+.image-3{
+  margin-top: -60px;
+  margin-left: 110px;
+}
+
+.uni-text-section{
+  text-align: justify;
+  padding-left: 10px;
+}
+.uni-text-section h5{
+  color: white;
+}
+
+
+
+
+        /* unique section end
+        ======================== */
+
+
+
+
+
+
+
+
 
          /* <!-- Meet our team section start
           ======================================= --> */
