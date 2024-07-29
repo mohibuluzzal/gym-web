@@ -188,7 +188,7 @@
       width: 200px;
     }
     #special-text{
-      width: 79%;
+      max-width: 415px;
     }
 }
 
