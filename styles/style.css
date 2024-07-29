@@ -267,6 +267,8 @@ h3{
   .run-xtra-mile-sec-sub-main img{
     width: 100%;
     border-radius: 20px; 
+    object-fit: none;
+    object-position: 66% 28%;
   }
 
   #run-section-child{
@@ -279,6 +281,7 @@ h3{
     padding-top: 30px;
     padding-right: 30px;
     padding-bottom: 40px;
+    
   }
  
   #run-section-child p{
@@ -403,19 +406,8 @@ select{
   color: white;
 }
 
-
-
-
-        /* unique section end
+  /* unique section end
         ======================== */
-
-
-
-
-
-
-
-
 
          /* <!-- Meet our team section start
           ======================================= --> */
