@@ -6,9 +6,11 @@
     }
     .nav-btn-container{
         display: none;
+        
     }
     .get-body-container{
         flex-direction: column; 
+        padding-bottom: 0px;
     }
     
     .get-body{
@@ -30,12 +32,17 @@
         font-size: 1.6rem;
         padding-right: 90px;
     }
+
     .img-first{
         justify-content: center;
         align-items:center;
         padding-top: 650px;
         margin: 0 auto;
        width: 100%;
+    }
+    .two-section-same{
+      padding-top: 10px;
+      
     }
     .gym-video-badge{
         padding: 10px 20px;
