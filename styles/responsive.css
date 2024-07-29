@@ -137,4 +137,25 @@
     hr{
       width: 90%;
     }
+    .bmi-main-sec{
+      padding-left: 20px;
+    }
+    .bmi-calc-container{
+      flex-direction: column;
+     padding-left: 30px;
+      
+    }
+   table{
+    width: 90%;
+   
+   }
+    .bmi-form{
+      margin: 0 auto;
+      padding-right: 0px;
+      padding-top: 30px;
+    }
+    .input-decor{
+      width: 200px;
+    }
 }
+

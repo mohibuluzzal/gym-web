@@ -289,6 +289,91 @@ h3{
         /* <!-- Run an Extra Mile Section end
          =============================== --> */
 
+          /* BMI Section Start
+          ==================== */
+        .bmi-main-sec{
+          max-width: 1100px;
+          margin: 0 auto;
+          padding-left: 160px;
+          padding-top: 30px;
+          padding-bottom: 80px;
+          
+        }
+        .bmi-main-sec h3{
+          padding-bottom: 20px;
+        }
+
+         
+          .bmi-calc-and-form-main{
+            background-color: rgb(34, 34, 34);
+            color: white;
+          }
+.bmi-calc-container{
+          max-width: 1100px;
+          margin: 0 auto;
+          display: flex;
+          justify-content: space-between;
+          padding-top: 60px;
+          padding-bottom: 60px;
+          border: 1px solid white;
+}
+.bmi-form{
+  margin-left: 140px;
+  padding-right: 50px;
+}
+table, th, td {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+th{
+  font-weight:400;
+  font-size: 0.9rem;
+}
+table{
+width: 100%;
+margin-right: 90px;
+}
+.bm-h{
+  font-weight: 900;
+  font-size: 1.5rem;
+  padding-bottom: 50px;
+}
+#more-speci{
+  padding-bottom: 20px;
+}
+.bmi-form p{
+    padding-bottom: 40px;
+    padding-right: 40px;
+}
+.input-decor{
+  width: 280px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+}
+input::placeholder{
+  padding-left: 10px;
+}
+.bmi-form input{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+select{
+  padding: 0px 10px;
+  
+}
+#special-text{
+  width: 92%;
+}
+
+ /* BMI Section end
+          ==================== */
+          
          /* <!-- Meet our team section start
           ======================================= --> */
 .trainer-profile-container{
@@ -331,8 +416,7 @@ h3{
 
 /* Footer section start */
 .foot{
-  background: #1a1a1a;
-  
+  background: #1a1a1a; 
 }
 .footer{
   max-width: 1100px;
