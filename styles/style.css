@@ -315,7 +315,7 @@ h3{
           justify-content: space-between;
           padding-top: 60px;
           padding-bottom: 60px;
-          border: 1px solid white;
+          
 }
 .bmi-form{
   margin-left: 140px;
@@ -373,7 +373,7 @@ select{
 
  /* BMI Section end
           ==================== */
-          
+
          /* <!-- Meet our team section start
           ======================================= --> */
 .trainer-profile-container{
